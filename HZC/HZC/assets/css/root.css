@@ -1,0 +1,11 @@
+:root {
+    --cor-de-fundo: #1D232A;
+    --cor-cabeçalho-mobile: #15191C;
+    --cor-menu-lateral: #15191C;
+    --cor-cartao: #2C343A;
+    --cor-fonte: #FFFFFF;
+    --cor-fonte-alternativa: #95999C;
+    --cor-links: #0480DC;
+    --cor-botao: #0480DC;
+    --sombra: 0px 4px 4px rgba(0, 0, 0, 0.16);
+}
